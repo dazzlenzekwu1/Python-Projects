@@ -1,0 +1,2 @@
+This is a test file.
+I'm learning file handling and exception handling in Python.
